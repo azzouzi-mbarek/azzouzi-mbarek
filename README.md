@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm M'barek AZZOUZI</h1>
 <h3 align="center">GIS $ FME Consultant</h3>
-<iframe src="https://giphy.com/embed/9cE0k0e3cjjK2GZeOi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gps-offroading-onxoffroad-9cE0k0e3cjjK2GZeOi">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/9cE0k0e3cjjK2GZeOi/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa2022&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa2022" /> </p>
 
