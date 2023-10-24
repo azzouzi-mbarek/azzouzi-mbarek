@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa2022&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa2022" /> </p>
 
-https://www.esri.nl/content/dam/distributor-share/esri-nl/producten/fme/940x576-fme-3.png
 
 - 🔭 I’m currently working on **Geospatial Data**
 
