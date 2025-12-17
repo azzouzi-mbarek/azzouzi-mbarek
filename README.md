@@ -2,7 +2,7 @@
 <h3 align="center">GIS & FME Consultant | Geospatial Data Engineer</h3>
 
 <!-- Images en haut -->
-<p align="centre">
+<p>
   <img width="450"
     src="https://cdn.prod.website-files.com/6130fa1501794e37c21867cf/63cf3084f1439f2401b8d477_0qBAzVjwAYTmqKX3Yb5RTDEt3tE_pKN3mWHfRgB1ruK9WCYnMBSUcFL_CwEa9eA4SpO3eYHKwMCzlZI7xwRWcQePNVZ10iOJrPa_AYbSLgcIc3p_VBpwh2sFUeIBtqDrh-Fx3XAdSmTI92UHXIHbNZW7yec8ZzAfc_iFcir6gxE1_qikjmFvnhB8ji0w.png"/>
 </p>
