@@ -5,8 +5,6 @@
 <p align="right">
   <img width="360"
     src="https://media.giphy.com/media/9cE0k0e3cjjK2GZeOi/giphy.gif"/>
-  <img width="360"
-    src="https://www.esri.nl/content/dam/distributor-share/esri-nl/producten/fme/940x576-fme-3.png"/>
 </p>
 
 
