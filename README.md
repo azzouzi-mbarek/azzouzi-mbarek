@@ -4,7 +4,7 @@
 <!-- Images en haut -->
 <p align="right">
   <img width="360"
-    src="https://media.giphy.com/media/9cE0k0e3cjjK2GZeOi/giphy.gif"/>
+    src="https://www.fivetran.com/fr/learn/data-pipeline-vs-etl"/>
 </p>
 
 
