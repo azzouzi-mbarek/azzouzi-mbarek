@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/ArcGIS%20Enterprise-Certified-2C7BE5?style=for-the-badge&logo=esri&logoColor=white"/>
   <img src="https://img.shields.io/badge/FME%20Form-Certified-F7931E?style=for-the-badge&logo=safe&logoColor=white"/>
   <img src="https://img.shields.io/badge/FME%20Flow-Certified-F7931E?style=for-the-badge&logo=safe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FME%20Trainer-Certified-0A7C86?style=for-the-badge&logo=safe&logoColor=white"/>
 </p>
 
 
