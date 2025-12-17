@@ -9,7 +9,7 @@
     src="https://www.esri.nl/content/dam/distributor-share/esri-nl/producten/fme/940x576-fme-3.png"/>
 </p>
 
----
+
 
 <h3>What I deliver</h3>
 
@@ -20,7 +20,7 @@
   <li>✔️ Data quality, validation & compliance</li>
 </ul>
 
----
+
 
 <h3>Certifications</h3>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/FME%20Flow-Certified-F7931E?style=for-the-badge&logo=safe&logoColor=white"/>
 </p>
 
----
+
 
 <h3>GIS & Automation Stack</h3>
 
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/AIXM-0052CC?style=flat-square"/>
 </p>
 
----
+
 
 <h3>Languages & Tools</h3>
 
@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
 </p>
 
----
+
 
 <h3>Selected work</h3>
 
