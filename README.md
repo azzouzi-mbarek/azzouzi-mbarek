@@ -4,9 +4,12 @@
 GIS & FME Consultant | Geospatial Data Engineer | AIXM & Aeronautical Data
 </h3>
 
-<p align="center">
-  <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/9cE0k0e3cjjK2GZeOi/giphy.gif"/>
-<img align="right" alt="Coding" width="400"  src="https://www.esri.nl/content/dam/distributor-share/esri-nl/producten/fme/940x576-fme-3.png"/>
+<!-- Images en haut à droite -->
+<p align="right">
+  <img alt="Coding" width="400"
+    src="https://media.giphy.com/media/9cE0k0e3cjjK2GZeOi/giphy.gif"/>
+  <img alt="FME" width="400"
+    src="https://www.esri.nl/content/dam/distributor-share/esri-nl/producten/fme/940x576-fme-3.png"/>
 </p>
 
 <h3 align="center">Certifications</h3>
