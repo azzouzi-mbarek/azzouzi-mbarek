@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm M'barek AZZOUZI</h1>
 <h3 align="center">
-GIS & FME Consultant | Geospatial Data Engineer | AIXM & Aeronautical Data
+GIS & FME Consultant | Geospatial Data Engineer
 </h3>
 
 <!-- Images en haut à droite -->
@@ -27,7 +27,7 @@ GIS & FME Consultant | Geospatial Data Engineer | AIXM & Aeronautical Data
 🔭 Specialist in <b>Geospatial & Aeronautical Data (AIXM)</b><br>
 🛠 Expert in <b>FME, ArcGIS Enterprise & Automation</b><br>
 🌱 Currently improving <b>FME Flow & Cloud GIS</b><br>
-💬 Ask me about <b>GIS, FME, Python, AIXM, ArcGIS, DGAC</b><br>
+💬 Ask me about <b>GIS, FME, Python, AIXM, ArcGIS</b><br>
 📫 Contact: <b>azzouzimbarek@outlook.fr</b>
 </p>
 
@@ -66,7 +66,7 @@ GIS & FME Consultant | Geospatial Data Engineer | AIXM & Aeronautical Data
   <li>✈️ <b>AIXM Data Automation</b> – FME workflows for aeronautical datasets (EAD, PERMDELTA)</li>
   <li>🌍 <b>ArcGIS Enterprise Deployment</b> – Secure on-prem & Azure architectures</li>
   <li>🔁 <b>XML / GML Transformation</b> – AIXM ↔ GPKG ↔ PostGIS</li>
-  <li>⚙️ <b>Data Quality & Validation</b> – INSPIRE & aviation compliance</li>
+  <li>⚙️ <b>Data Quality & Validation</b> – INSPIRE & Data compliance</li>
 </ul>
 
 <h3 align="center">Connect with Me</h3>
